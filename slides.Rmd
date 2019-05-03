@@ -25,6 +25,8 @@ Oh no I cloned from the master instead of my fork!
 2. ```git remote -v``` lists existing remotes 
 3. ```git remote set-url origin ``` + the URL will let you change the remote
 
+For other Git Predicaments (reset to last commit/change commit etc.) search "Git Predicaments" in notes. 
+
 # ```reprex()``` Example 
 
 1. Copy the relevant code onto your clipboard 
