@@ -23,7 +23,7 @@ Oh no I cloned from the master instead of my fork!
 
 1. Get to your working directory 
 2. ```git remote -v``` lists existing remotes 
-3. ```git remote set-url ``` + the URL will let you change the remote 
+3. ```git remote set-url origin ``` + the URL will let you change the remote
 
 # ```reprex()``` Example 
 
