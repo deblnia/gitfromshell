@@ -2,6 +2,8 @@
 title: "Some Stuff for Assignment 5"
 author: "Deblina Mukherjee"
 date: "5/1/2019"
+fig_width: 6 
+fig_height: 4 
 output: 
   beamer_presentation
 ---
@@ -14,7 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Oh no I cloned from the master instead of my fork! 
 
-![](pics/terminal_edited.png)
+![](pics/terminal_edited.png){ width=80% }
+
 
 # Using Git From Shell 
 
